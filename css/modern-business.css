@@ -33,3 +33,28 @@ body {
   -webkit-text-shadow: 0 0 4px #000;
   font-size: 15px;
 }
+
+.mi-iframe{
+  width: 350px;
+  height: 260px;
+}
+
+/* CSS pantallas de 320px o superior */
+@media (min-width: 360px) {
+
+  .mi-iframe {
+    width: 330px;
+    height: 240px;
+  } 
+
+}
+
+/* CSS pantalla 768px o superior */
+@media (min-width: 768px) {
+
+  .mi-iframe {
+    width: 350px;
+    height: 260px;
+  } 
+
+}
