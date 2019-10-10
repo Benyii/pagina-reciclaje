@@ -47,6 +47,11 @@ body {
     height: 240px;
   } 
 
+  .mapa-centro{
+    width: 600px;
+    height: 200px;
+  }
+
 }
 
 /* CSS pantalla 768px o superior */
@@ -57,4 +62,18 @@ body {
     height: 260px;
   } 
 
+  .mapa-centro{
+    width: 600px;
+    height: 200px;
+  }
+
 }
+
+.mapa-centro{
+  margin: auto;
+  width: 1100px;
+  height: 700px;
+  border-style: solid;
+  border-width: 5px;
+}
+
