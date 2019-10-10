@@ -1,5 +1,5 @@
 function moveMapToBerlin(map){
- 	map.setCenter({lat:-33.5, lng:-70.6});
+ 	map.setCenter({lat:-33.431, lng:-70.6});
   	map.setZoom(10.6);
 	}
 
